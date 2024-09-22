@@ -1,0 +1,17 @@
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\bin\Debug\net8.0-windows\UnisciArray.exe
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\bin\Debug\net8.0-windows\UnisciArray.deps.json
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\bin\Debug\net8.0-windows\UnisciArray.runtimeconfig.json
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\bin\Debug\net8.0-windows\UnisciArray.dll
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\bin\Debug\net8.0-windows\UnisciArray.pdb
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.MainForm.resources
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.csproj.GenerateResource.cache
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.AssemblyInfo.cs
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.sourcelink.json
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.dll
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\refint\UnisciArray.dll
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.pdb
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\UnisciArray.genruntimeconfig.cache
+C:\Users\thoma\Desktop\school\CS\4BI-projects\UnisciArray\UnisciArray\obj\Debug\net8.0-windows\ref\UnisciArray.dll
